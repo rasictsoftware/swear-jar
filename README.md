@@ -11,3 +11,4 @@ bro leave me alone and let me vibecode
 
 for help use nude.js
 
+this was made for the discord swear jar bot
